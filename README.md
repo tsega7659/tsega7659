@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Yeabsira Zelalem Tilahun</h1>
-<h3 align="center">I'm a front-end and mobile app developer focused on building easy, beginner-friendly products that solve real problems in my community.</h3>
+<h3 align="center">I'm a full-stack and mobile app developer focused on building easy, beginner-friendly products that solve real problems in my community.</h3>
 
 - 👨‍💻 All of my projects are available at [https://yeabi-zelalem.netlify.app/](https://yeabi-zelalem.netlify.app/)
 
 - 📫 How to reach me **yeabsirazelalem791@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xHlZvlo_CbJN3cEsKSRUsAK9PvA5VdcT/view?usp=sharing](https://drive.google.com/file/d/1xHlZvlo_CbJN3cEsKSRUsAK9PvA5VdcT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xHlZvlo_CbJN3cEsKSRUsAK9PvA5VdcT/view?usp=sharing]([https://drive.google.com/file/d/1xHlZvlo_CbJN3cEsKSRUsAK9PvA5VdcT/view?usp=sharing](https://drive.google.com/file/d/1YHBw_FAYJlRtsUxNug6al4ApsO7qyGpu/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
